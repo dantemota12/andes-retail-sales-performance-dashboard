@@ -74,6 +74,9 @@ Power BI Desktop · DAX · Data modeling · Data storytelling (SCQA)
 - `<your-file-name>.pbix`: Power BI dashboard file.
 - `sprint_10_-_cuaderno_de_jupyter_-_S10_Proyecto_VersionEstudiante_Desempeno_Comercial.ipynb`: project notebook with the dashboard planning, SCQA narrative and Slack executive message.
 - `images/`: screenshots of both dashboard views.
+
+- [Download the Power BI dashboard (.pbix) from Google Drive](https://drive.google.com/file/d/1Njc6DYqpcMevuBx9iYa5599R6ccFPdPl/view?usp=drive_link)
+
 - [Download the dashboard from Google Drive](https://drive.google.com/file/d/1fWGqsy11tkoJsZmFEVJFcm0AugrWJcDz/view?usp=sharing)
 
 ## Author
